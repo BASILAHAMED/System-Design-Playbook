@@ -38,6 +38,10 @@ This playbook covers **8 major system designs** that frequently appear in FAANG,
    - DynamoDB/Cassandra style, consistent hashing, LSM trees
    - CAP theorem, tunable consistency, replication
 
+9. **[How ChatGPT Works](designs/09-how-chatgpt-works.md)** 🤖
+   - Transformer architecture, tokenization, attention mechanisms
+   - Training pipeline, fine-tuning, inference optimization
+
 ## 🎯 Interview Preparation
 
 ### Difficulty Levels
@@ -75,6 +79,8 @@ This playbook covers **8 major system designs** that frequently appear in FAANG,
 - "Design a metrics monitoring system"
 - "Design a task queue (like Celery)"
 - "Design a file storage system (like Dropbox/Google Drive)"
+- "Design ChatGPT/LLM architecture"
+- "How does ChatGPT work internally"
 
 ## 📚 How to Use
 
@@ -183,6 +189,7 @@ Before diving into these designs, ensure you understand:
 | Rate Limiter | High | High | High | Eventual | Very High |
 | Collaborative Editor | Very High | Very High | Very High | Strong | Medium |
 | Key-Value Store | Very High | Very High | High | Tunable | Very High |
+| ChatGPT/LLM | Medium | High | High | Strong | Very High |
 
 ## 🔄 Updates & Contributions
 
