@@ -230,4 +230,4 @@ Inspired by countless system design interviews, engineering blogs, and the open-
 
 **Happy designing! May your interviews be smooth and your architectures scalable. 🚀**
 
-*Last updated: March 2025*
+*Last updated: March 2026*
